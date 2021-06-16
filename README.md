@@ -1,4 +1,12 @@
-### Hi there 👋
+## cong-ccoder
+> 没事就学习点东西总没错的
+
+## My Github Status 🦸
+
+![](https://github-readme-stats.vercel.app/api?username=ccoderJava&show_icons=true&show_owner=true&count_private=true)
+
+![](https://activity-graph.herokuapp.com/graph?username=ccoderJava&theme=github)
+
 
 <!--
 **ccoderJava/ccoderJava** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
