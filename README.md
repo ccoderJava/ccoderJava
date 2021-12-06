@@ -29,10 +29,8 @@
 + 负责银行存管，支付基础设施等系统日常更新维护工作。
 
 
-## cong-ccoder
-> 没事就学习点东西总没错的
 
-## My Github Status 🦸
+## Github status
 
 ![](https://github-readme-stats.vercel.app/api?username=ccoderJava&show_icons=true&show_owner=true&count_private=true)
 
