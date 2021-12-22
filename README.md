@@ -10,7 +10,7 @@
 
 
 ## 工作经历
-### 北京青子未来网络科技有限公司(PayBy) 2019年09月 - 2021年12月 上海
+### 阿联酋PayBy金融科技(PayBy Technology Projects LLC.) 2019年09月 - 2021年12月 上海
 高级Java工程师 支付研发部
 
 + 阿联酋本土移动支付服务, 隶属UAE G42集团，获得2021年MEA Finance最具创造性的钱包APP。 目前已接入Totok、Botim等通讯App，接入百余家Baqala 杂货店和60家 lulu超市和当地出租⻋服 务，对接有FAB(存管银行)、ADCB、ADIB等主流银行。
