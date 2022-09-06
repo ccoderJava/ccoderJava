@@ -15,6 +15,9 @@
 高级java工程师   SHOPLINE电商业务部门/支付研发中心
 
 + 参与shopline电商支付能力渠道建设工作,接入各类支付渠道、支付钱包，提供给shopline独立站用户更丰富的支付选择
++ 负责整个支付中台数据合规改造
+  + 重构2.0 数据合规starter:解决ElasticSearch 、MongoDB、MySQL等数据库读写加解密。
+  + 重构数据脱敏starter: 解决logback日志脱敏、前端api接口脱敏及权限绑定。
 
 
 
