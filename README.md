@@ -11,7 +11,7 @@
 
 ## 工作经历
 
-### 欢聚集团-[SHOPLINE](https://shoplineapp.cn/) 2022年1月 - 至今 上海
+### 欢聚集团-[SHOPLINE](https://shoplineapp.cn/)-支付研发中心 2022年1月 - 至今 上海
 高级java工程师   SHOPLINE电商业务部门/支付研发中心
 
 + 参与shopline电商支付能力渠道建设工作,接入各类支付渠道、支付钱包，提供给shopline独立站用户更丰富的支付选择
