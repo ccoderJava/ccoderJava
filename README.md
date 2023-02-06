@@ -13,12 +13,15 @@
 
 ### 欢聚集团-[SHOPLINE](https://shoplineapp.cn/)-支付研发中心 2022年1月 - 至今 上海
 高级java工程师   SHOPLINE电商业务部门/支付研发中心
-
-+ 参与shopline电商支付能力渠道建设工作,接入各类支付渠道、支付钱包，提供给shopline独立站用户更丰富的支付选择
-+ 负责整个支付中台数据合规改造
-  + 重构2.0 数据合规starter:解决ElasticSearch 、MongoDB、MySQL等数据库读写加解密。
-  + 重构数据脱敏starter: 解决logback日志脱敏、前端api接口脱敏及权限绑定。
-
++ 参与shopline电商支付能力渠道建设工作 
+  + 接入各类支付渠道、支付钱包，提供给shopline独立站用户更丰富的支付选择
+  + 支付中台日常运营维护工作
++ 负责整个支付中台数据合规改造 
+  + 重构重写数据合规SDK,提供全新2.0版本starter
+  + 解决ElasticSearch 、MongoDB、MySQL等数据库读写加解密 
+  + 兼容适配多版本密文密钥，支持字段级别JSON节点密文处理 
+  + 密文算法、分表策略、灰度策略等能力进行扩展性开发 
+  + 日志打印、api数据输出进行权限级别掩码处理
 
 
 ### 阿联酋[PayBy](https://github.com/PayBy)金融科技([PayBy Technology Projects LLC.](https://github.com/PayBy)) 2019年09月 - 2021年12月 上海
