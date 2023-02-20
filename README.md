@@ -1,4 +1,13 @@
-## 个人介绍
+<!-- TOC -->
+  * [个人介绍 Personal introduction](#个人介绍-personal-introduction)
+  * [工作经历 Work experience](#工作经历-work-experience)
+    * [欢聚集团-SHOPLINE-支付研发中心 2022年1月 - 至今 上海](#欢聚集团--shopline--支付研发中心-2022年1月---至今-上海)
+    * [阿联酋PayBy金融科技(PayBy Technology Projects LLC.) 2019年09月 - 2021年12月 上海](#阿联酋-payby-金融科技--payby-technology-projects-llc--2019年09月---2021年12月-上海)
+  * [项目介绍 Project introduction](#项目介绍-project-introduction)
+  * [Github成就 Github achievements](#github成就-github-achievements)
+<!-- TOC -->
+
+## 个人介绍 Personal introduction
 > 陈聪  152****7179 | 27岁 丨congccoder@gmail.com 上海 | 在职
 + **职业经历:** 具备支付机构全链路的业务系统架构设计与开发经验，包括交易支付主链路、渠道对接和清结算系统的架构设计与开发经验。具有团队管理经验
 + **专业技能:** 
@@ -18,7 +27,7 @@
   + ccoderJava/tiny-link 短链接服务 ccoderJava/ccoder-common 后端开发常用模式、基础脚手架包
 
 
-## 工作经历
+## 工作经历 Work experience
 
 ### 欢聚集团-[SHOPLINE](https://shoplineapp.cn/)-支付研发中心 2022年1月 - 至今 上海
 高级java工程师   SHOPLINE电商业务部门/支付研发中心 
@@ -87,7 +96,9 @@
 --- 
 
 
-<!-- ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ccoderJava&layout=compact&hide=javascript,html) -->
+## Github成就 Github achievements
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=ccoderJava&layout=compact&hide=javascript,html)
 
 
 ![](https://github-readme-stats.vercel.app/api?username=ccoderJava&count_private=true&show_icons=true) 
