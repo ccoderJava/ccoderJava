@@ -1,5 +1,5 @@
 ## 个人介绍
-> 陈聪  15271917179 | 25岁 丨congccoder@gmail.com 上海 | 在职
+> 陈聪  152****7179 | 27岁 丨congccoder@gmail.com 上海 | 在职
 + **职业经历:** 具备支付机构全链路的业务系统架构设计与开发经验，包括交易支付主链路、渠道对接和清结算系统的架构设计与开发经验。具有团队管理经验
 + **专业技能:** 
   + 有扎实Java编程基础，熟悉各类设计模式、JUC并发编程、JVM内存管理及调优。
@@ -57,6 +57,22 @@
 
 ## Github status
 
-![](https://github-readme-stats.vercel.app/api?username=ccoderJava&show_icons=true&show_owner=true&count_private=true)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=ccoderJava&layout=compact&hide=javascript,html)
+![](https://github-readme-stats.vercel.app/api?username=ccoderJava&count_private=true&show_icons=true) 
 
-![](https://activity-graph.herokuapp.com/graph?username=ccoderJava&theme=github)
+<a style="width: 100%; height: 100%; max-height: 153px; min-height: 153px" href="https://github-readme-stats.vercel.app/api/top-langs/?username=ccoderJava&layout=compact&hide=javascript,html">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ccoderJava&layout=compact&hide=javascript,html"/>
+</a>
+
+<a style="width: 100%; height: 100%; max-height: 153px; min-height: 153px" href="https://github-readme-stats.vercel.app/api?username=ccoderJava&count_private=true&show_icons=true">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=ccoderJava&count_private=true&show_icons=true"/>
+</a>
+
+--- 
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=convoychat" />
+</a>
