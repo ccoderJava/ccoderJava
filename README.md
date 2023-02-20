@@ -45,14 +45,14 @@
 + 参与公司各项目需求评审和code review工作，有效减少代码瑕疵，提高了上线代码质量。
 
 
-### 金运通网络支付股份有限公司([JytPay](http://www.jytpay.com/)) 2018年06月 - 2019年09月 上海
+<!-- ### 金运通网络支付股份有限公司([JytPay](http://www.jytpay.com/)) 2018年06月 - 2019年09月 上海
 软件工程师 研发部
 + 参与公司多个独立产品项目开发和维护。
 + 参与对外银行存管系统的架构和设计，完成支付渠道整合、提供基础支付服务。
 + 开发设计公司商户自动对接调试项目，供外部商户对接调试使用，极大提高商户体验度，降低开发周期。 
 + 公司内部技术规范分享。
 + 负责银行存管，支付基础设施等系统日常更新维护工作。
-
+ -->
 
 
 ## 项目介绍 Project introduction
@@ -65,7 +65,6 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ccoderJava&repo=docker-repository" />
 </a>
 
----
 
 ### go-gin
 本项目是一个简单的博客系统，主要用于学习golang的web开发。项目使用golang开发，使用MySQL数据库，项目使用docker进行部署，使用docker-compose进行编排。
@@ -73,8 +72,6 @@
 <a href="https://github.com/ccoderJava/go-gin">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ccoderJava&repo=go-gin" />
 </a>
-
----
 
 ### ccoder-ufs
 OSS对象存储(Object Storage Service） 集成对接aliyun、qiniu、huawei、tencent等云存储，提供统一抽象的ufs服务
