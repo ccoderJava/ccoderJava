@@ -1,7 +1,7 @@
 <!-- TOC -->
   * [个人介绍 Personal introduction](#个人介绍-personal-introduction)
   * [工作经历 Work experience](#工作经历-work-experience)
-    * [招银云创网络科技-CMBYC-武汉研发中心 2023年4月 - 至今 武汉](#招银云创网络科技-CMBYC-武汉研发中心 2023年4月 - 至今)
+    * [招银云创网络科技-CMBYC-武汉研发中心 2023年4月 - 至今 武汉](#招银云创网络科技-cmbyc-武汉研发中心-2023年4月---至今)
     * [欢聚集团-SHOPLINE-支付研发中心 2022年1月 - 2023年4月 上海](#欢聚集团--shopline--支付研发中心-2022年1月---至今-上海)
     * [阿联酋PayBy金融科技(PayBy Technology Projects LLC.) 2019年09月 - 2021年12月 上海](#阿联酋-payby-金融科技--payby-technology-projects-llc--2019年09月---2021年12月-上海)
   * [项目介绍 Project introduction](#项目介绍-project-introduction)
