@@ -1,7 +1,8 @@
 <!-- TOC -->
   * [个人介绍 Personal introduction](#个人介绍-personal-introduction)
   * [工作经历 Work experience](#工作经历-work-experience)
-    * [欢聚集团-SHOPLINE-支付研发中心 2022年1月 - 至今 上海](#欢聚集团--shopline--支付研发中心-2022年1月---至今-上海)
+    * [招银云创网络科技-CMBYC-武汉研发中心 2023年4月 - 至今 武汉](#招银云创网络科技-CMBYC-武汉研发中心 2023年4月 - 至今)
+    * [欢聚集团-SHOPLINE-支付研发中心 2022年1月 - 2023年4月 上海](#欢聚集团--shopline--支付研发中心-2022年1月---至今-上海)
     * [阿联酋PayBy金融科技(PayBy Technology Projects LLC.) 2019年09月 - 2021年12月 上海](#阿联酋-payby-金融科技--payby-technology-projects-llc--2019年09月---2021年12月-上海)
   * [项目介绍 Project introduction](#项目介绍-project-introduction)
   * [Github成就 Github achievements](#github成就-github-achievements)
@@ -29,7 +30,13 @@
 
 ## 工作经历 Work experience
 
-### 欢聚集团-[SHOPLINE](https://shoplineapp.cn/)-支付研发中心 2022年1月 - 至今 上海
+### 招银云创网络科技-CMBYC-武汉研发中心 2023年4月 - 至今
+高级Java开发工程师  武汉研发中心/支付结算开发室
++ 参与招商银行财资管理云基础维护工作
++ 参与招商银行财资管理云重构工作
++ 参与招商银行财资管理云版本迁移
+
+### 欢聚集团-[SHOPLINE](https://shoplineapp.cn/)-支付研发中心 2022年1月 - 2023年4月 上海
 高级java工程师   SHOPLINE电商业务部门/支付研发中心 
 + 参与shopline电商支付能力渠道建设工作 
   + 参与Shopline电商支付能力渠道的建设工作，成功接入网关、钱包、快捷等各类支付渠道，为Shopline独立站用户提供了更丰富的支付选择，从而增加了20%的订单量。
